@@ -6,5 +6,5 @@ intermittent, so if you were looking to stalk me, check out my
 [site](https://www.rajats.site) (which links to all my public accounts) or go
 right next door to look at my [gists](https://gist.github.com/rajatscode).
 
-Beyond coding, I enjoy comedy, biking, and cooking/eating ridiculously
-spicy food. I also do several things I do not enjoy, like running.
+Beyond coding, I enjoy comedy, hardware hacking, biking, and cooking/eating
+ridiculously spicy food. I also do several things I do not enjoy, like running.
