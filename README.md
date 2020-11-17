@@ -7,4 +7,4 @@ intermittent, so if you were looking to stalk me, check out my
 right next door to look at my [gists](https://gist.github.com/rajatscode).
 
 Beyond coding, I enjoy comedy, hardware hacking, biking, and cooking/eating
-ridiculously spicy food. I also do several things I do not enjoy, like running.
+ridiculously spicy food. I also have hobbies I do not enjoy, like running.
