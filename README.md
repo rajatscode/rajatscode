@@ -1,7 +1,7 @@
 # hi there!
 
 I'm a software engineer, currently working in back-end development. I've also
-dabbled in full-stack development, cross-platform apps, digital
+dabbled in full-stack development, cross-platform apps, robotics, digital
 signal processing, and digital design.
 
 Beyond coding, I enjoy comedy, hardware hacking, biking, and cooking/eating
